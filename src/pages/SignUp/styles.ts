@@ -79,8 +79,19 @@ export const AnimationContainer = styled.div`
   }
 `;
 
+const appearBackgroundImage = keyframes`
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+`;
+
 export const Background = styled.div`
   flex: 1;
   background: url(${signUpBackground}) no-repeat center;
   background-size: cover;
+
+  animation: ${appearBackgroundImage} 2s;
 `;
