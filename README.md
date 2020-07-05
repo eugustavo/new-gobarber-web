@@ -21,7 +21,8 @@ A solução perfeita para o gerenciamento da sua barbearia!
 </p>
 
 <p align="center">
-  <img alt="GithubExplorer" src="https://i.imgur.com/7jP3Liz.gif">
+  <img alt="GoBarber - SignIn" src="https://i.imgur.com/6NhdY4D.png">
+  <img alt="GoBarber - SignUp" src="https://i.imgur.com/M79nI0S.png">
 </p>
 
 
