@@ -4,7 +4,7 @@ import { Form } from '@unform/web';
 import { FormHandles } from '@unform/core';
 import * as Yup from 'yup';
 
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logo.svg';
 
 import getValidationErrors from '../../utils/getValidationErrors';
 import Input from '../../components/Input';

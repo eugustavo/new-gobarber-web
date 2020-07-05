@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import signInBackground from '../../assets/signIn-background.jpg';
+import signInBackground from '../../assets/sign-in-background.png';
 
 export const Container = styled.div`
   height: 100vh;
@@ -57,11 +57,6 @@ export const Content = styled.div`
     &:hover {
       opacity: 0.6;
     }
-  }
-
-  img {
-    height: 128px;
-    width: 128px;
   }
 `;
 

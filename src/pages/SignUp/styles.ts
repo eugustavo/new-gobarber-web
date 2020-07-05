@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import signInBackground from '../../assets/signIn-background.jpg';
+import signUpBackground from '../../assets/sign-up-background.jpg';
 
 export const Container = styled.div`
   height: 100vh;
@@ -58,15 +58,10 @@ export const Content = styled.div`
       opacity: 0.6;
     }
   }
-
-  img {
-    height: 128px;
-    width: 128px;
-  }
 `;
 
 export const Background = styled.div`
   flex: 1;
-  background: url(${signInBackground}) no-repeat center;
+  background: url(${signUpBackground}) no-repeat center;
   background-size: cover;
 `;
